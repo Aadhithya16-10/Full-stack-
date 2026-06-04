@@ -1,0 +1,15 @@
+/* types of slector
+element (P)
+class (.)
+id (#)
+universal (*)
+ */
+.paragraph {
+    color: blue;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform: capitalize;
+ }
